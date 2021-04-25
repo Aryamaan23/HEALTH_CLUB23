@@ -9,8 +9,11 @@ To help out people we have desinged Health Club where people can get prediction 
 ### Snapshots of the project
 
 ![image](https://user-images.githubusercontent.com/60667917/115993202-64b0b080-a5ef-11eb-9c84-a9865dcd3d7a.png)
+
 ![image](https://user-images.githubusercontent.com/63836083/115994538-071f6280-a5f5-11eb-8fd7-6586000ada90.png)
+
 ![image](https://user-images.githubusercontent.com/63836083/115994616-61202800-a5f5-11eb-8507-a2f7717d3e61.png)
+
 ![image](https://user-images.githubusercontent.com/63836083/115994640-7d23c980-a5f5-11eb-86be-9f2d00128b76.png)
 
 
