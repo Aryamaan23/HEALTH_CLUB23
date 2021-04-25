@@ -26,6 +26,8 @@ Flask,
 ML,
 Heroku 
 
+## LocalHost
+To run locally use command npm install
 
 
 
