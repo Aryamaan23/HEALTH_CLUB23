@@ -17,13 +17,13 @@ To help out people we have desinged Health Club where people can get prediction 
 
 ## TechStack:
 ### Frontend 
-CSS
-HTML
-BootStrap
+CSS,
+HTML,
+BootStrap,
 ReactJS
 ### Backend 
-Flask
-ML
+Flask,
+ML,
 Heroku 
 
 
