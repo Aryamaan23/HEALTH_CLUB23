@@ -7,6 +7,8 @@ To help out people we have desinged Health Club where people can get prediction 
 
 ### Snapshots of the project
 
+![image](https://user-images.githubusercontent.com/60667917/115993202-64b0b080-a5ef-11eb-9c84-a9865dcd3d7a.png)
+
 
 
 
