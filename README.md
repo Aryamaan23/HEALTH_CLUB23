@@ -29,7 +29,7 @@ Flask,
 ML,
 Heroku 
 
-## LocalHost
+## How to run this project locally ?
 To run this project locally on your machine first clone this repository, then use command npm install to install the dependencies, then npm start command to run this project on your local server
 
 
